@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Shopping.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shopping.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shopping.DTOs.dll": {}
+        }
+      },
+      "Shopping.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shopping.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shopping.Entities.dll": {}
+        }
+      },
+      "Shopping.UseCasesPorts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Shopping.DTOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shopping.UseCasesPorts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shopping.UseCasesPorts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "sha512": "xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Shopping.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../Shopping.DTOs/Shopping.DTOs.csproj",
+      "msbuildProject": "../Shopping.DTOs/Shopping.DTOs.csproj"
+    },
+    "Shopping.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Shopping.Entities/Shopping.Entities.csproj",
+      "msbuildProject": "../Shopping.Entities/Shopping.Entities.csproj"
+    },
+    "Shopping.UseCasesPorts/1.0.0": {
+      "type": "project",
+      "path": "../Shopping.UseCasesPorts/Shopping.UseCasesPorts.csproj",
+      "msbuildProject": "../Shopping.UseCasesPorts/Shopping.UseCasesPorts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
+      "Shopping.Entities >= 1.0.0",
+      "Shopping.UseCasesPorts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\CRISTIAN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.UseCases\\Shopping.UseCases.csproj",
+      "projectName": "Shopping.UseCases",
+      "projectPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.UseCases\\Shopping.UseCases.csproj",
+      "packagesPath": "C:\\Users\\CRISTIAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.UseCases\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\CRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\Shopping.Entities.csproj": {
+              "projectPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\Shopping.Entities.csproj"
+            },
+            "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.UseCasesPorts\\Shopping.UseCasesPorts.csproj": {
+              "projectPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.UseCasesPorts\\Shopping.UseCasesPorts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

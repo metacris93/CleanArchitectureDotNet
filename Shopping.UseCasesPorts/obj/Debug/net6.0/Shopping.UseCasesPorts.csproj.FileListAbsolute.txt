@@ -1,0 +1,15 @@
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\bin\Debug\net6.0\Shopping.UseCasesPorts.deps.json
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\bin\Debug\net6.0\Shopping.UseCasesPorts.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\bin\Debug\net6.0\Shopping.UseCasesPorts.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\bin\Debug\net6.0\Shopping.DTOs.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\bin\Debug\net6.0\Shopping.DTOs.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.AssemblyInfoInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.AssemblyInfo.cs
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.csproj.CopyComplete
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\refint\Shopping.UseCasesPorts.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\Shopping.UseCasesPorts.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.UseCasesPorts\obj\Debug\net6.0\ref\Shopping.UseCasesPorts.dll

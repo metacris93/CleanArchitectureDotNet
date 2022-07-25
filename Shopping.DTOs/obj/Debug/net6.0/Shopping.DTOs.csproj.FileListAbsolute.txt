@@ -1,0 +1,12 @@
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\bin\Debug\net6.0\Shopping.DTOs.deps.json
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\bin\Debug\net6.0\Shopping.DTOs.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\bin\Debug\net6.0\Shopping.DTOs.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\Shopping.DTOs.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\Shopping.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\Shopping.DTOs.AssemblyInfoInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\Shopping.DTOs.AssemblyInfo.cs
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\Shopping.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\Shopping.DTOs.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\refint\Shopping.DTOs.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\Shopping.DTOs.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.DTOs\obj\Debug\net6.0\ref\Shopping.DTOs.dll

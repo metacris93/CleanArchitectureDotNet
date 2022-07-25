@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.RepositoryEFCore\\Shopping.RepositoryEFCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\Shopping.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\Shopping.Entities.csproj",
+        "projectName": "Shopping.Entities",
+        "projectPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\Shopping.Entities.csproj",
+        "packagesPath": "C:\\Users\\CRISTIAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.RepositoryEFCore\\Shopping.RepositoryEFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.RepositoryEFCore\\Shopping.RepositoryEFCore.csproj",
+        "projectName": "Shopping.RepositoryEFCore",
+        "projectPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.RepositoryEFCore\\Shopping.RepositoryEFCore.csproj",
+        "packagesPath": "C:\\Users\\CRISTIAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.RepositoryEFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\Shopping.Entities.csproj": {
+                "projectPath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Entities\\Shopping.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

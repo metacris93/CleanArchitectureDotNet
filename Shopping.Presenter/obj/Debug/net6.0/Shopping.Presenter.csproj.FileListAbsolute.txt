@@ -1,0 +1,17 @@
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\bin\Debug\net6.0\Shopping.Presenter.deps.json
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\bin\Debug\net6.0\Shopping.Presenter.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\bin\Debug\net6.0\Shopping.Presenter.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\bin\Debug\net6.0\Shopping.DTOs.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\bin\Debug\net6.0\Shopping.UseCasesPorts.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\bin\Debug\net6.0\Shopping.UseCasesPorts.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\bin\Debug\net6.0\Shopping.DTOs.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.AssemblyInfoInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.AssemblyInfo.cs
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.csproj.CopyComplete
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\refint\Shopping.Presenter.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\Shopping.Presenter.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.Presenter\obj\Debug\net6.0\ref\Shopping.Presenter.dll

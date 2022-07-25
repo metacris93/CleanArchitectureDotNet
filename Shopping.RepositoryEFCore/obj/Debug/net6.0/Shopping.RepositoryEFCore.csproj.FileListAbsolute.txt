@@ -1,0 +1,17 @@
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\bin\Debug\net6.0\Shopping.RepositoryEFCore.deps.json
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\bin\Debug\net6.0\Shopping.RepositoryEFCore.runtimeconfig.json
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\bin\Debug\net6.0\Shopping.RepositoryEFCore.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\bin\Debug\net6.0\Shopping.RepositoryEFCore.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\bin\Debug\net6.0\Shopping.Entities.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\bin\Debug\net6.0\Shopping.Entities.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.AssemblyInfoInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.AssemblyInfo.cs
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.csproj.CopyComplete
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\refint\Shopping.RepositoryEFCore.dll
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.pdb
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\Shopping.RepositoryEFCore.genruntimeconfig.cache
+C:\Users\CRISTIAN\Documents\Visual Studio 2022\Projects\CleanArchitectureDotNet\Shopping.RepositoryEFCore\obj\Debug\net6.0\ref\Shopping.RepositoryEFCore.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOXDGTrAjnxh++vEPaPPXy68MqLRjNU/h3GKHwcIA3E68Z3r/0QOWTIyqUfsAZyFcu8NFfS3okqpo3z437pfuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.UseCases\\Shopping.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CRISTIAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

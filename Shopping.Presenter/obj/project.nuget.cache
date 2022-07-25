@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9F3EFNjQPpUG62wBYOfGbcAsvVW4mgTYS0qJe9qntO+jsRDY9mRQKD4J4RMbmjTzt8iLOcnPOL9MZh6tAUisw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CRISTIAN\\Documents\\Visual Studio 2022\\Projects\\CleanArchitectureDotNet\\Shopping.Presenter\\Shopping.Presenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CRISTIAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
